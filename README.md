@@ -25,22 +25,17 @@ We know that School of Code is an accelerated learning experience, it's designed
 
 ### Task 1
 
-TBC - IDEA HERE
+#### Your own site all about you
+
+You challenge is to design a website all about the most amazing person... YOU! You might be tempted to just make a HTML version of a boring old CV... don't! Think about your audiences (likely to be employers, other developers, etc), create your personas, build your user stories, and design a user experience which really helps your audience achieve their goals.
 
 Follow the Design Thinking Process and UX/UI planning we've covered this week. Be sure to document (notes, screenshots, etc.) each stage of your planning in this repository before you build, including:
 
 - Create user personas and user stories - who will be using your app? What needs will this app fulfill?
 - Plan your design, and create your wireframes.
-- Create a flow diagram that documents the journey of your user as they use your app.
+- Create a high-fidelity design which looks like the end-product you are hoping to build.
 
-Then use HTML and CSS to turn your wireframes into an application like we did earlier in the week.
-
-- Use CSS variables with your color scheme.
-- Implement flexbox or grid for positioning.
-- Pay attention to how you're naming and organizing your CSS - is your CSS readable? Are your classnames based on purpose rather than values like colors that may change?
-- Think about accessibility. Do your images have alt tags? Have you checked how your color scheme looks to someone who's color-blind? Run a Lighthouse audit and check out the accessibility report.
-
-🌟 Bonus: If you're happy with your design and you have time to spare, start to add functionality to your page using your DOM manipulation skills in JavaScript (you can use array methods, add inputs, buttons, etc. with event listeners, and more).
+🌟 Bonus. To be done after submission: Once your happy with your design process, feel free to start breaking it down and building it out of HTML, CSS, and JavaScript. **We do not expect this to be completed by the time you hand this assignment in, but it could make for a nice version 1.0 of your portfolio site**. If you're feeling like you're racing through it (the previous tasks should have taken a lot of time up already, but you never know) you can start to add functionality to your page using your DOM manipulation skills in JavaScript (you can use array methods, add inputs, buttons, etc. with event listeners, and more).
 
 ## Task 2
 
