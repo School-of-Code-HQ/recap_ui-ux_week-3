@@ -37,7 +37,7 @@ Follow the Design Thinking Process and UX/UI planning we've covered this week. B
 
 #### 🌟 Bonus. To be done after submission
 
-Once your happy with your design process, feel free to start breaking it down and building it out of HTML, CSS, and JavaScript. **We do not expect this to be completed by the time you hand this assignment in, but it could make for a nice version 1.0 of your portfolio site to work on over the next few weeks of the course**. If you're feeling like you're racing through it (the previous tasks should have taken a lot of time up already, but you never know) you can start to add functionality to your page using your DOM manipulation skills in JavaScript (you can use array methods, add inputs, buttons, etc. with event listeners, and more).
+Once you're happy with your design process, feel free to start breaking it down and building it out of HTML, CSS, and JavaScript. **We do not expect this to be completed by the time you hand this assignment in, but it could make for a nice version 1.0 of your portfolio site to work on over the next few weeks of the course**. If you're feeling like you're racing through it (the previous tasks should have taken a lot of time up already, but you never know) you can start to add functionality to your page using your DOM manipulation skills in JavaScript (you can use array methods, add inputs, buttons, etc. with event listeners, and more).
 
 ### Task 2
 
