@@ -41,7 +41,7 @@ Once you're happy with your design process, feel free to start breaking it down 
 
 ### Task 2
 
-At this point in the course, we've covered the basics of HTML, CSS, and JavaScript. W3Schools has quizzes on each, so we'd like you to give them a go.
+At this point in the course, we've covered the basics of HTML, CSS, and JavaScript. To give an indicator on how far you've come, we'd like you to give the W3Schools questions a go. There might be some curveballs and things you haven't heard of yet, so don't worry if there's something unfamiliar, but it's a great opportunity to see how far you've progressed on these technologies.
 
 - [HTML](https://www.w3schools.com/html/html_quiz.asp)
 - [CSS](https://www.w3schools.com/css/css_quiz.asp)
