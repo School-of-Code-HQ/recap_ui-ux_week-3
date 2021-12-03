@@ -9,7 +9,7 @@
 
 Next week, we'll be delving into NodeJS, which allows us to run JavaScript outside the browser - exciting!
 
-To make sure you're ready to go for this, [click here](https://nodejs.org/en/download/) and download and install the LTS (long-term support) version of Node for your operating system and install it.
+To make sure you're ready to go for this, [click here](https://nodejs.org/en/download/) and download and install the LTS (long-term support) version of Node for your operating system.
 
 ## Mindset - from Joseph
 
