@@ -9,7 +9,7 @@
 
 Next week, we'll be delving into NodeJS, which allows us to run JavaScript outside the browser - exciting!
 
-To make sure you're ready to go for this, [click here](https://nodejs.org/en/download/) and download and install the LTS (long-term support) version of Node for your operating system.
+To make sure you're ready to go for this, [click here](https://npm.github.io/installation-setup-docs/installing/using-a-node-version-manager.html). We'll be installing Node with a version manager so that you can easily switch between versions, so use the link relevant to your operating system (for Mac and Linux, use the nvm link, and for Windows, use the nodist link). Use the readme/docs to
 
 ## Recap tasks
 
@@ -24,6 +24,8 @@ Follow the Design Thinking Process and UX/UI planning we've covered this week. B
 - Create user personas and user stories - who will be using your app? What needs will this app fulfill? Add your user stories and personas to this repo.
 - Plan your design, and create your wireframes. Download or screenshot them from whatever tool you're using and add them to this repo.
 - Create a high-fidelity design which looks like the end-product you are hoping to build. Ensure you commit once you've completed your design process!
+
+You'll present your designs and process to your peers on Monday morning to get feedback as well.
 
 #### 🌟 Bonus
 
