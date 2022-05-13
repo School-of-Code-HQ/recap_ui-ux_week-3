@@ -21,17 +21,17 @@ You challenge is to design a website all about the most amazing person: YOU! You
 
 Follow the Design Thinking Process and UX/UI planning we've covered this week. Be sure to document (notes, screenshots, etc.) each stage of your planning in this repository before you build, including:
 
-- Create user personas and user stories - who will be using your app? What needs will this app fulfill?
-- Plan your design, and create your wireframes.
-- Create a high-fidelity design which looks like the end-product you are hoping to build.
+- Create user personas and user stories - who will be using your app? What needs will this app fulfill? Add your user stories and personas to this repo.
+- Plan your design, and create your wireframes. Download or screenshot them from whatever tool you're using and add them to this repo.
+- Create a high-fidelity design which looks like the end-product you are hoping to build. Ensure you commit once you've completed your design process!
 
-#### 🌟 Bonus. To be done after submission
+#### 🌟 Bonus
 
-Once you're happy with your design process, feel free to start breaking it down and building it out of HTML, CSS, and JavaScript. **We do not expect this to be completed by the time you hand this assignment in, but it could make for a nice version 1.0 of your portfolio site to work on over the next few weeks of the course**. If you're feeling like you're racing through it (the previous tasks should have taken a lot of time up already, but you never know) you can start to add functionality to your page using your DOM manipulation skills in JavaScript (you can use array methods, add inputs, buttons, etc. with event listeners, and more).
+Once you're happy with your design process and have committed, feel free to start breaking it down and building it out of HTML and CSS. **We do not expect this to be fully completed by the time you hand this assignment in, but it could make for a nice version 1.0 of your portfolio site to work on over the next few weeks of the course**. You can start to add functionality to your page using your DOM manipulation skills in JavaScript as well.
 
 ### Task 2
 
-At this point in the course, we've covered the basics of HTML, CSS, and JavaScript. To give an indicator on how far you've come, we'd like you to give the W3Schools questions a go. There might be some curveballs and things you haven't heard of yet, so don't worry if there's something unfamiliar, but it's a great opportunity to see how far you've progressed on these technologies.
+At this point in the course, we've covered the basics of HTML, CSS, and JavaScript. To give an indicator on how far you've come, we'd like you to give the W3Schools questions a go. There might be a few curveballs and things you haven't heard of yet, so don't worry if there's something unfamiliar, but it's a great opportunity to see how far you've progressed on these technologies.
 
 - [HTML](https://www.w3schools.com/html/html_quiz.asp)
 - [CSS](https://www.w3schools.com/css/css_quiz.asp)
