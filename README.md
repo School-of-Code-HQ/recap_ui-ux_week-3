@@ -9,9 +9,9 @@
 
 Next week, we'll be delving into NodeJS, which allows us to run JavaScript outside the browser - exciting!
 
-To make sure you're ready to go for this, [click here](https://npm.github.io/installation-setup-docs/installing/using-a-node-version-manager.html).
+To make sure you're ready to go for this, install Node over the weekend.
 
-We'll be installing Node with a version manager. There are a lot of different versions of Node out there. A version manager will help you keep track of what version you are using and also make it easy to install new versions and switch between them. Use the link relevant to your operating system (for Mac and Linux, use the nvm link, and for Windows, use the nodist link). Use the readme/docs at the relevant link to install the relevant package.
+We'd recommending installing Node via a version manager. There are a lot of different versions of Node out there. A version manager like NVM will help you keep track of what version you are using and also make it easy to install new versions and switch between them. [Click here](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/) for a guide to installing Node via NVM for your relevant operating system.
 
 ## Recap tasks
 
