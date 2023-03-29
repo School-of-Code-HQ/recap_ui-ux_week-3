@@ -16,4 +16,7 @@ Once you're happy with your design process and have committed, feel free to star
 
 ### 🚀 Preparing to shift back into JS next week
 
-We'll be jumping back into JavaScript next week. To get ready for that and to make sure that your code is as neat and readable as possible, read through our [🧼 Clean Code Guide 🧼](https://www.notion.so/schoolofcode/Clean-Code-Guide-Styling-and-Formatting-Your-Code-a8825609ed314f04a712db42d5a354a0) if you haven't already.
+We'll be jumping back into JavaScript next week. To get ready for that and to make sure that your code is as neat and readable as possible: 
+
+- Ensure that you've installed and enabled [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) in your VS Code, and it's working to auto-format your code on save. Remember that Prettier is part of the [SoC extension pack](https://marketplace.visualstudio.com/items?itemName=SchoolofCode.extension-pack) that has a lot of other useful tools in it, so we'd recommend installing that whole package!
+- Read through our [🧼 Clean Code Guide 🧼](https://www.notion.so/schoolofcode/Clean-Code-Guide-Styling-and-Formatting-Your-Code-a8825609ed314f04a712db42d5a354a0).
